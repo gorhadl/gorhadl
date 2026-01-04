@@ -1,16 +1,49 @@
-## Hi there 👋
+# 안녕하세요, 꾸준히 성장하는 개발자 성민우입니다 👋
 
-<!--
-**gorhadl/gorhadl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 **Python / FastAPI 기반 백엔드**를 만들고, **AI Agent**를 서비스 형태로 설계·구현하는 개발자입니다.  
+“모르면 배우고, 배운 것은 시스템으로 구현해 검증한다”는 방식으로 빠르게 성장해 왔습니다.
 
-Here are some ideas to get you started:
+- 🔭 관심 분야: **FastAPI**, **Python**, **AI Agent 설계/구현**, **RAG 기반 서비스 구조**
+- 🌱 학습 중: LLM/Agent 운영(평가, 로깅/모니터링, 재현성), 배포/운영 관점의 안정화
+- 🎯 지향점: **금융 도메인 × AI** (분석 자동화, 의사결정 지원, 리스크 신호 조기 탐지)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 내가 잘하는 것
+- FastAPI로 **API 중심 서비스** 설계/구현 (모듈화, 인증/인가, 외부 API 연동, 예외 처리)
+- 요구사항을 **작업 단위로 구조화**하고, 에이전트/툴 호출 흐름으로 구현
+- **재현성과 운영성**을 고려한 개발: 로그 설계, 실패 케이스 수집, 반복 개선
+- 금융 업무 특성에 맞춘 **정확성/추적 가능성** 중심의 개발 습관
+
+---
+
+## 🚀 프로젝트 하이라이트
+### 1) AI Agent 기반 기업분석 프로그램
+- 공시/뉴스/재무지표 등 정보를 수집하고, 핵심 내용을 요약·해석하여 구조화된 결과로 출력
+- 툴 호출 흐름, 출력 포맷 통일, 실패 케이스 기반 개선을 통해 품질을 지속 고도화
+
+### 2) Agent 구조 변형 기반 동영상 생성 프로그램(프로토타입)
+- MM-StoryAgent와 같은 연구 기반 **계층형 Agent 구조**를 분석하고 목표에 맞게 변형
+- 계획(스토리/장면/컷 분해) → 생성 → 검증/재생성 규칙을 포함한 파이프라인으로 구현
+
+> 레포는 정리되는 대로 문서/데모/실험 결과를 업데이트할 예정입니다.
+
+---
+
+## 🧰 기술 스택
+**Backend**: Python, FastAPI, REST API  
+**Data**: SQL(예: MySQL/PostgreSQL), 데이터 처리, 로깅/모니터링  
+**AI**: LLM/Agent 오케스트레이션, 프롬프트 설계, 툴 호출, 기본 평가  
+**Dev**: Git, 문서화, 클린 코드, 반복 개선
+
+---
+
+## 🧭 일하는 방식
+- “일단 만들고 끝”이 아니라 **운영 가능한 품질(재현성/관측 가능성/안전한 실패 처리)**을 중요하게 봅니다.
+- 작은 단위로 빠르게 만들고, 로그와 피드백으로 **지속 개선**합니다.
+
+---
+
+## 📫 연락
+- Email: (이메일)
+- Portfolio / LinkedIn: (링크)
